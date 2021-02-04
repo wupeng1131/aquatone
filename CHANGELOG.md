@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.8.0]
+- Go modules support and `dep` support deprecation
+- Concurrent map access fixed
+- Dependencies updated
+
 ## [1.7.0]
 
 ### Added
@@ -111,14 +116,14 @@ Complete rewrite and simplification of Aquatone. Now written in Go and focused o
 - Domain discovery (`aquatone-discover`)
 - Domain takeover discovery (`aquatone-takeover`)
 
-[Unreleased]: https://github.com/michenriksen/aquatone/compare/v1.7.0...HEAD
-[1.7.0]: https://github.com/michenriksen/aquatone/compare/v1.7.0-beta.2...v1.7.0
-[1.7.0-beta.2]: https://github.com/michenriksen/aquatone/compare/v1.7.0-beta...v1.7.0-beta.2
-[1.7.0-beta]: https://github.com/michenriksen/aquatone/compare/v1.6.0...v1.7.0-beta
-[1.6.0]: https://github.com/michenriksen/aquatone/compare/v1.5.0...v1.6.0
-[1.5.0]: https://github.com/michenriksen/aquatone/compare/v1.4.3...v1.5.0
-[1.4.3]: https://github.com/michenriksen/aquatone/compare/v1.4.2...v1.4.3
-[1.4.2]: https://github.com/michenriksen/aquatone/compare/v1.4.1...v1.4.2
-[1.4.1]: https://github.com/michenriksen/aquatone/compare/v1.4.0...v1.4.1
-[1.4.0]: https://github.com/michenriksen/aquatone/compare/v1.3.2...v1.4.0
-[1.3.2]: https://github.com/michenriksen/aquatone/compare/v1.3.2
+[Unreleased]: https://github.com/L11R/aquatone/compare/v1.7.0...HEAD
+[1.7.0]: https://github.com/L11R/aquatone/compare/v1.7.0-beta.2...v1.7.0
+[1.7.0-beta.2]: https://github.com/L11R/aquatone/compare/v1.7.0-beta...v1.7.0-beta.2
+[1.7.0-beta]: https://github.com/L11R/aquatone/compare/v1.6.0...v1.7.0-beta
+[1.6.0]: https://github.com/L11R/aquatone/compare/v1.5.0...v1.6.0
+[1.5.0]: https://github.com/L11R/aquatone/compare/v1.4.3...v1.5.0
+[1.4.3]: https://github.com/L11R/aquatone/compare/v1.4.2...v1.4.3
+[1.4.2]: https://github.com/L11R/aquatone/compare/v1.4.1...v1.4.2
+[1.4.1]: https://github.com/L11R/aquatone/compare/v1.4.0...v1.4.1
+[1.4.0]: https://github.com/L11R/aquatone/compare/v1.3.2...v1.4.0
+[1.3.2]: https://github.com/L11R/aquatone/compare/v1.3.2
